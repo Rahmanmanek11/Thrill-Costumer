@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "Thrill Customer",
-  "short_name": "Thrill",
-  "description": "Pesan ojek online Thrill",
+  "name": "Thrill Go",
+  "short_name": "Thrill Go",
+  "description": "Pesan ojek online Thrill Go",
   "lang": "id",
   "dir": "ltr",
   "start_url": "./index.html",

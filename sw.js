@@ -1,5 +1,5 @@
 // Service worker sederhana: cache shell aplikasi agar bisa dipasang di HP.
-const CACHE = "ojol-customer-v5";
+const CACHE = "ojol-customer-v6";
 const SHELL = ["./", "./index.html", "./config.js", "./manifest.webmanifest", "./iconv2.svg", "./iconv3-192.png", "./iconv3-512.png"];
 
 self.addEventListener("install", (e) => {
