@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.thrillcostumer.twa",
+        "sha256_cert_fingerprints": ["E4:9B:D6:3A:A1:6D:20:A9:7A:42:8E:E9:F2:F7:20:CC:F6:D5:64:41:CC:A9:88:6A:CB:CE:21:C6:35:25:57:C1"]
+      }
+    }]
